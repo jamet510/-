@@ -1,4 +1,4 @@
-# -
+# 前方交会计算。Forward intersection calculation
 Qt版本为6.5.3
 
 ![image](https://github.com/user-attachments/assets/686ed9a0-3a9d-435d-9d1c-99272424a785)
